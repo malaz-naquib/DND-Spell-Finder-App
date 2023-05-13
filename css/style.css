@@ -1,0 +1,113 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+html, body {
+  height: 88%;
+  font-family: 'Quintessential', sans-serif;
+}
+
+body{
+  background-image: url("../img/dnd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.spellBlock {
+  border-radius: 4%;
+  margin-left: 25%;
+  margin-top: 13%;
+  border: 1px solid black;
+  width: 50%;
+  background-color: black;
+  opacity: 0.9;
+}
+
+h1 {
+  color: white;
+  margin-top: 6%;
+  font-size: 3rem;
+  margin-left: 3%;
+}
+
+select {
+  width: 18em;
+  font-family: inherit;
+  font-size: inherit;
+  padding: 8px;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+button {
+  background-color:  #4F0000;
+  border: none;
+  color: white;
+  margin-left: 2%;
+  border-radius: 2%;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+button:active {
+  border-bottom: var(--border);
+  transform: translateY(3px);
+}
+
+button:hover {
+  background: rgb(103, 32, 29);
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 4%;
+  color: white;
+  margin-left: 5%;
+}
+
+li {
+  color: #930C10;
+  margin-left: 19%;
+  font-size: 2rem;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+span {
+  color: #930C10;
+  font-size: 2rem;
+}
+
+.subClassesHeader {
+  margin-bottom: 3%;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
