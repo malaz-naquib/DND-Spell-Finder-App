@@ -14,4 +14,4 @@ HTML and CSS were used to build out the bones of this app while JavaScript was u
 
 ## Lessons Learned:
 
-Buidling this app has helped me solidy my knowledge on how to properly fetch and display data/objects. Other than that, this was a good review of HTML and CSS certainly feel like I'm getting much faster at building out the bones of the front end, then jumping into the back end site before returning to do finalization on the front end.
+Buidling this app has helped me solidify my knowledge on how to properly fetch and display data/objects. Other than that, this was a good review of HTML and CSS certainly feel like I'm getting much faster at building out the bones of the front end, then jumping into the back end site before returning to do finalization on the front end.
