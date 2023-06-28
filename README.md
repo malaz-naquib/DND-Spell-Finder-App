@@ -4,7 +4,7 @@ I'm a nerd, you're a nerd, so let's dive into this nerdy app together! If you've
 
 **Check it out here:** https://dnd-spell-finder-app-mn.netlify.app/
 
-![dnd-spell-image](https://github.com/malaz-naquib/DND-Spell-Finder-App/assets/113329798/71d56833-f1e1-4d98-beeb-e5ee862a94bb)
+![dnd](https://github.com/malaz-naquib/DND-Spell-Finder-App/assets/113329798/6cdf95ca-28eb-4907-9e9c-0627eeb98c6f)
 
 ## Description:
 
